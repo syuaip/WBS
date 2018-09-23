@@ -45,7 +45,7 @@ INSTALASI BINARY:
 -----------------
 
 SERVER : 
-- Download dari <address no longer valid>
+- Download dari *address no longer valid*
 - Extract ke C:\wServerInstall 
 - Run file C:\wServerInstall\SETUP.EXE 
 - Ikuti prosedurnya 
@@ -60,7 +60,7 @@ SERVER :
 - That's It! 
 
 CLIENT : 
-- Download dari <address no longer valid> 
+- Download dari *address no longer valid* 
 - Extract ke C:\wClientInstall 
 - Run file C:\wClientInstall\SETUP.EXE 
 - Ikuti prosedurnya 
@@ -77,7 +77,7 @@ Untuk mendapatkan Serial Number, silahkan lakukan hal-hal berikut :
 
 - Install Warnet Billing Server di komputer server anda 
 - Melalui menu Help|Register, catat Customer ID yang digenerate oleh WBS 
-- Kemudian silahkan kirimi saya melalui email <address no longer valid> item-item berikut : 
+- Kemudian silahkan kirimi saya melalui email *address no longer valid* item-item berikut : 
   ~ Customer Name yang anda inginkan (Sebaiknya nama warnet atau usaha anda)
   ~ Customer ID dari aplikasi WBS tersebut 
   ~ Alamat dari Warnet anda 
